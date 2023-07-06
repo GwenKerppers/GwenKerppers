@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Gwendolyn
 #### I want to be a full stack developer
-###I want to be a full stack developer
+#### I want to be a full stack developer
 
 Currently studying Computer Science at Universidade Estadual do Centro-Oeste (UNICENTRO). I see myself in the future developing software, webapps and games
 
