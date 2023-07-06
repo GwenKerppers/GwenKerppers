@@ -4,7 +4,7 @@
 
 Currently studying Computer Science at Universidade Estadual do Centro-Oeste (UNICENTRO). I see myself in the future developing software, webapps and games
 
-- 😄 Pronouns: She/Her 
+- ❤️ Pronouns: She/Her 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GwenKerppers)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gwenklin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Gwen_void)  
