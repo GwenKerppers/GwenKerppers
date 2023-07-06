@@ -20,8 +20,6 @@ Currently studying Computer Science at Universidade Estadual do Centro-Oeste (UN
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GwenKerppers&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GwenKerppers)  
-
 ![GitHub metrics](https://metrics.lecoq.io/GwenKerppers)  
 
 ![Profile views](https://gpvc.arturio.dev/GwenKerppers)  
