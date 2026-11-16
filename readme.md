@@ -18,7 +18,7 @@ Meu TCC é um agente de IA (Deep Q-Network) que aprende a jogar batalhas Pokémo
 | | |
 |---|---|
 | **Graduação** | Ciência da Computação, Universidade Estadual do Centro-Oeste (UNICENTRO) |
-| **Período** | ANO-DE-INGRESSO – PREVISÃO-DE-CONCLUSÃO |
+| **Período** | 2021 – 2027 |
 | **Estágio obrigatório** | PROAE: sistema de gestão de atendimento estudantil (desenvolvimento individual) |
 | **Idiomas** | Português (fluente) · Inglês (intermediário) · Espanhol (intermediário) |
 
@@ -51,7 +51,7 @@ Interface web de um sistema de gestão de atendimento estudantil, desenvolvida d
 
 `React` `TypeScript` `Vite` `React Router`
 
-[Ver repositório](https://github.com/GwenKerppers/NOME-DO-REPOSITORIO-PROAE-WEB)
+[Ver repositório](https://github.com/GwenKerppers/Proae-Web)
 
 ### PROAE API
 
@@ -59,7 +59,7 @@ API REST que atende o PROAE Web. Em desenvolvimento.
 
 `Java` `Spring Boot` `PostgreSQL`
 
-[Ver repositório](https://github.com/GwenKerppers/NOME-DO-REPOSITORIO-PROAE)
+[Ver repositório](https://github.com/GwenKerppers/Proae-API)
 
 ## Tecnologias
 
