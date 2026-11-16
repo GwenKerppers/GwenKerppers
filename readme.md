@@ -1,23 +1,45 @@
-### Hi there 👋, my name is Gwendolyn
-#### I want to be a full stack developer
+# Gwendolyn Klinpovous
 
-Currently studying Computer Science at Universidade Estadual do Centro-Oeste (UNICENTRO). I see myself in the future developing software, webapps and games
+Estudante de Ciência da Computação na UNICENTRO (Guarapuava, PR), com foco em desenvolvimento full stack e inteligência artificial.
 
-- ❤️ Pronouns: She/Her 
+Divido meus estudos entre construir aplicações web completas e experimentar aprendizado por reforço em ambientes simulados.
 
+## Projetos em destaque
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GwenKerppers)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gwenklin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Gwen_void)  
+**[Pokémon VGC AI](https://github.com/GwenKerppers/NOME-DO-REPOSITORIO-POKEMON)**
+Simulador de batalhas Pokémon no formato VGC (duplas) com agentes treinados por aprendizado por reforço (Deep Q-Network). Desenvolvido como TCC.
+`Python` · `TensorFlow` · `Firestore` · `PokéAPI`
 
-<img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> <img height="20" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
-<img height="20" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img height="20" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img height="20" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
-<img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img height="20" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)">
+**[PROAE Web](https://github.com/GwenKerppers/NOME-DO-REPOSITORIO-PROAE-WEB)**
+Interface web de um sistema de gestão de atendimento estudantil, desenvolvido de forma individual como estágio obrigatório. Inclui controle de acesso por perfil e por setor, cadastro de atendidos, tutorias, prontuários e arquivos, com registro de acessos.
+`React` · `TypeScript` · `Vite`
 
+**[PROAE API](https://github.com/GwenKerppers/NOME-DO-REPOSITORIO-PROAE)**
+API REST que atende o PROAE Web. Em desenvolvimento.
+`Java` · `Spring Boot` · `PostgreSQL`
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## Tecnologias
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GwenKerppers)](https://github.com/anuraghazra/github-readme-stats)
+![Python](https://img.shields.io/badge/Python-1f2430?style=flat-square&labelColor=1f2430&color=8b6fc9)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1f2430?style=flat-square&labelColor=1f2430&color=8b6fc9)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2430?style=flat-square&labelColor=1f2430&color=8b6fc9)
+![React](https://img.shields.io/badge/React-1f2430?style=flat-square&labelColor=1f2430&color=8b6fc9)
+![Java](https://img.shields.io/badge/Java-1f2430?style=flat-square&labelColor=1f2430&color=8b6fc9)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f2430?style=flat-square&labelColor=1f2430&color=8b6fc9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2430?style=flat-square&labelColor=1f2430&color=8b6fc9)
+![Firebase](https://img.shields.io/badge/Firebase-1f2430?style=flat-square&labelColor=1f2430&color=8b6fc9)
+![Git](https://img.shields.io/badge/Git-1f2430?style=flat-square&labelColor=1f2430&color=8b6fc9)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GwenKerppers&show_icons=true)  
+Também já utilizei: C#, C++, Angular, HTML, JavaScript, MySQL, LaTeX e Linux.
 
-![GitHub metrics](https://metrics.lecoq.io/GwenKerppers)  
+## Em foco agora
+
+- Aprendizado por reforço aplicado a jogos e simulações
+- Desenvolvimento de APIs e integração com front-end
+- Testes automatizados
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/gwendolyn-klinpovous-a3ba4424b/) · SEU-EMAIL@exemplo.com
+
+Pronomes: ela/dela
