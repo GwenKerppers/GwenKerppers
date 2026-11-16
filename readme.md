@@ -36,7 +36,7 @@ Simulador de batalhas Pokémon em duplas (formato VGC) com agentes de aprendizad
 
 `Python` `TensorFlow` `Firestore` `PokéAPI`
 
-[Ver repositório](https://github.com/GwenKerppers/NOME-DO-REPOSITORIO-POKEMON)
+[Ver repositório](https://github.com/GwenKerppers/PokemonIAVGC)
 
 ### PROAE Web
 
