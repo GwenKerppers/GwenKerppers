@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Gwendolyn Klinpovous — Ciência da Computação, desenvolvimento full stack e IA" width="100%">
+  <img src="banner.svg" alt="Gwendolyn Klinpovous — Ciência da Computação, desenvolvimento full stack e IA" width="100%">
 
   <br>
 
